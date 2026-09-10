@@ -103,7 +103,7 @@ I have completed practical training covering the full Data Analytics and Machine
 
 ## 🚀 Featured Projects
 
-### 🚗 Car Price Prediction
+### 🚗 [Car Price Prediction](https://github.com/ArturM99/car-price-prediction)
 
 Machine learning project for predicting car prices.
 
@@ -120,7 +120,7 @@ Machine learning project for predicting car prices.
 
 ---
 
-### 💳 Loan Prediction
+### 💳 [Loan Prediction](https://github.com/ArturM99/LoanService)
 
 Machine learning classification project with a production-oriented API.
 
@@ -136,18 +136,30 @@ Machine learning classification project with a production-oriented API.
 
 ---
 
-### 📊 Google Analytics Data Pipeline
+### 📊 [Conversion Prediction Service](https://github.com/ArturM99/conversion-prediction-service)
 
-Data processing project based on large Google Analytics datasets.
+Machine learning service predicting user conversion from Google Analytics session data.
 
 **Highlights:**
 
-- Large-scale data processing
-- Pandas
-- Parquet
-- Data preparation
-- Data analysis
-- Apache Airflow
+- Large-scale data processing (Pandas, Parquet)
+- Feature engineering
+- Scikit-learn pipeline (custom transformers)
+- FastAPI deployment
+- ROC-AUC ~0.65
+
+---
+
+### ⚙️ [Car Price Prediction — Airflow Pipeline](https://github.com/ArturM99/car-price-airflow-pipeline)
+
+Automated ML pipeline for car price category prediction, orchestrated with Apache Airflow.
+
+**Highlights:**
+
+- Apache Airflow DAG (scheduled retraining & inference)
+- Model comparison and cross-validation
+- Automated model versioning
+- Batch inference on new data
 
 ---
 
