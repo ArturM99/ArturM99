@@ -1,16 +1,16 @@
-# Hi, I'm Artur 👋
+# Привет, я Артур 👋
 
 ### 🤖 Machine Learning Engineer
 
-I build end-to-end machine learning solutions — from data preprocessing and feature engineering to model development, evaluation, deployment, and ML workflow automation.
+Я создаю end-to-end решения в области машинного обучения — от подготовки данных и feature engineering до разработки и оценки моделей, их развёртывания и автоматизации ML-процессов.
 
-My current focus is on building practical ML services and pipelines using **Python, Scikit-learn, FastAPI, Docker, and Apache Airflow**.
+Сейчас я сосредоточен на создании практических ML-сервисов и пайплайнов с использованием **Python, Scikit-learn, FastAPI, Docker и Apache Airflow**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологический стек
 
-### 💻 Programming & Data
+### 💻 Программирование и работа с данными
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -29,7 +29,7 @@ My current focus is on building practical ML services and pipelines using **Pyth
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Инструменты
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -37,93 +37,93 @@ My current focus is on building practical ML services and pipelines using **Pyth
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Основные навыки
 
-* Data preprocessing & cleaning
-* Exploratory Data Analysis
+* Подготовка и очистка данных
+* Исследовательский анализ данных (EDA)
 * Feature engineering
-* Supervised machine learning
-* Classification & regression
-* Model evaluation & cross-validation
-* ML pipeline development
-* Model serialization
-* REST API & model serving
+* Обучение моделей машинного обучения
+* Классификация и регрессия
+* Оценка моделей и cross-validation
+* Разработка ML-пайплайнов
+* Сохранение и повторное использование моделей
+* REST API и model serving
 * Batch inference
-* Workflow orchestration
-* MLOps fundamentals
+* Автоматизация ML-процессов
+* Основы MLOps
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Избранные проекты
 
 ### 📊 [Conversion Prediction Service](https://github.com/ArturM99/conversion-prediction-service)
 
-ML service for predicting user conversion from Google Analytics session data.
+ML-сервис для прогнозирования конверсии пользователей на основе данных Google Analytics.
 
-**Highlights:**
+**Основные задачи:**
 
-* Large-scale data processing with Pandas & Parquet
+* Обработка больших объёмов данных с Pandas и Parquet
 * Feature engineering
-* Custom Scikit-learn preprocessing
-* Model training and evaluation
-* FastAPI model serving
+* Кастомная предобработка данных с использованием Scikit-learn
+* Обучение и оценка ML-модели
+* Развёртывание модели через FastAPI
 * ROC-AUC ≈ 0.65
 
-**Tech:** Python · Pandas · Scikit-learn · FastAPI · Parquet
+**Технологии:** Python · Pandas · Scikit-learn · FastAPI · Parquet
 
 ---
 
 ### 🚗 [Car Price Prediction](https://github.com/ArturM99/car-price-prediction)
 
-End-to-end machine learning project for used car price prediction.
+End-to-end ML-проект для прогнозирования стоимости автомобилей.
 
-**Highlights:**
+**Основные задачи:**
 
-* Data cleaning & preprocessing
+* Очистка и подготовка данных
 * Exploratory Data Analysis
 * Feature engineering
-* Model comparison
+* Сравнение моделей
 * Cross-validation
-* ML pipeline
-* Model serialization
-* FastAPI deployment
+* Разработка ML-пайплайна
+* Сериализация модели
+* Развёртывание через FastAPI
 
-**Tech:** Python · Pandas · Scikit-learn · FastAPI
+**Технологии:** Python · Pandas · Scikit-learn · FastAPI
 
 ---
 
 ### 💳 [LoanService](https://github.com/ArturM99/LoanService)
 
-Machine learning classification service for loan approval prediction.
+ML-сервис для прогнозирования одобрения кредитных заявок.
 
-**Highlights:**
+**Основные задачи:**
 
-* Data preprocessing
+* Предобработка данных
 * Feature engineering
-* Multiple classification models
+* Обучение нескольких моделей классификации
 * Cross-validation
-* Automatic model selection
-* Model serialization
-* FastAPI REST API
+* Автоматический выбор лучшей модели
+* Сериализация модели
+* REST API на FastAPI
 
-**Tech:** Python · Scikit-learn · FastAPI
+**Технологии:** Python · Scikit-learn · FastAPI
 
 ---
 
 ### ⚙️ [Car Price Airflow Pipeline](https://github.com/ArturM99/car-price-airflow-pipeline)
 
-Automated machine learning workflow orchestrated with Apache Airflow.
+Автоматизированный ML-пайплайн для прогнозирования категории стоимости автомобиля с использованием Apache Airflow.
 
-**Highlights:**
+**Основные задачи:**
 
 * Apache Airflow DAG
-* Scheduled model retraining
-* Model comparison & cross-validation
-* Model versioning
+* Плановое переобучение модели
+* Сравнение моделей и cross-validation
+* Автоматическое версионирование моделей
 * Batch inference
-* Automated ML workflow
+* Автоматизация ML workflow
 
-**Tech:** Python · Scikit-learn · Apache Airflow · Docker
+**Технологии:** Python · Scikit-learn · Apache Airflow · Docker
 
 ---
 
@@ -132,40 +132,40 @@ Automated machine learning workflow orchestrated with Apache Airflow.
 ```text
 Raw Data
    ↓
-Data Understanding
+Понимание данных
    ↓
-Data Preprocessing
+Предобработка данных
    ↓
-EDA & Data Cleaning
+EDA и очистка
    ↓
 Feature Engineering
    ↓
-Model Development
+Разработка модели
    ↓
-Model Evaluation
+Оценка модели
    ↓
-Model Serialization
+Сериализация модели
    ↓
 API / Batch Inference
    ↓
-Workflow Automation
+Автоматизация ML-процессов
 ```
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Текущий фокус
 
 * End-to-end Machine Learning
-* ML model development & evaluation
-* Feature engineering & data preprocessing
-* ML APIs & model serving
-* Automated ML pipelines
-* MLOps & workflow orchestration
-* Building practical ML systems
+* Разработка и оценка ML-моделей
+* Feature engineering и подготовка данных
+* ML API и model serving
+* Автоматизированные ML-пайплайны
+* MLOps и orchestration
+* Разработка практических ML-систем
 
 ---
 
-## 📫 Connect
+## 📫 Связаться со мной
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/artur-muradyan99/)
 
